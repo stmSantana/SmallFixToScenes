@@ -3,6 +3,8 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description
 This mod allows modifying some items in the mountaineer's hut (Timberwolf mountain).
+Several items can be changed from the Settings options.
+
 <img src="https://github.com/stmSantana/SmallFixToScenes/blob/main/images/.jpg" width="90%"><br>
 
 ## Installation
