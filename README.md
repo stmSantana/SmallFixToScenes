@@ -3,7 +3,7 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description
 This mod allows modifying some items in the mountaineer's hut (Timberwolf mountain).
-<img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(1).jpg" width="90%"><br>
+<img src="https://github.com/stmSantana/SmallFixToScenes/blob/main/images/.jpg" width="90%"><br>
 
 ## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
