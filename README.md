@@ -6,7 +6,7 @@ This mod allows modifying some items in the mountaineer's hut (Timberwolf mounta
 Several items can be changed from the **Options - Mod Settings**.
 
 <img src="https://github.com/stmSantana/SmallFixToScenes/blob/main/images/SmallFix01.jpg" width="80%">
-<img src="https://github.com/stmSantana/SmallFixToScenes/blob/main/images/SmallFix03.jpg" width="80%">
+<img src="https://github.com/stmSantana/SmallFixToScenes/blob/main/images/SmallFix02_v1.2.jpg" width="80%">
 
 ## Usage
 ### Options
