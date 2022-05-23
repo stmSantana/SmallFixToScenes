@@ -10,6 +10,8 @@ Several items can be changed from the **Options - Mod Settings**.
 
 ## Usage
 ### Options
+* New(v1.2): Change the indoor temperature
+* New(v1.2): Close the hole in the roof
 * Close windows
 * Remove beds
 * Remove workbench
