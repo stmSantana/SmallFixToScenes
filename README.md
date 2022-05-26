@@ -2,14 +2,18 @@
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description
-This mod allows modifying some items in the mountaineer's hut (Timberwolf mountain).<br>
-Several items can be changed from the **Options - Mod Settings**.
+This small mod can change some scene items.
+- (Timberwolf mountain) Mountaineer's hut
+- (Coastal highway) Abandoned lookout
 
 <img src="https://github.com/stmSantana/SmallFixToScenes/blob/main/images/SmallFix01.jpg" width="80%">
 <img src="https://github.com/stmSantana/SmallFixToScenes/blob/main/images/SmallFix02_v1.2.jpg" width="80%">
 
 ## Usage
+Several items can be changed from the **Options - Mod Settings**.
+
 ### Options
+* New(v1.3): (CH Region) Abandoned Lookout
 * New(v1.2): Change the indoor temperature
 * New(v1.2): Close the hole in the roof
 * Close windows
